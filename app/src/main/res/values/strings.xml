@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Berikut ini List Film</string>
+    <string name="app_name_detail">Movie Detail</string>
+    <string name="mahasiswa">Abd Mizwar A Rahim</string>
+    <string name="deskripsi_titikdua">Description :</string>
+    <string name="judul_titikdua">Title :</string>
+    <string name="tahun_titikdua">Release Date :</string>
+    <string name="gantibahasa">Ubah Bahasa</string>
+
+    <string name="input">input </string>
+    <string name="detail">detail </string>
+    <string name="update">update</string>
+    <string name="tambah">tambah</string>
+    <string name="pencarian">pencarian</string>
+
+
+</resources>
